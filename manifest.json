@@ -8,8 +8,8 @@
   "permissions": [
     "none"
   ],
-  "icons": { "48": "maka48.png",
-          "128": "maka128.png" },
+  "icons": { "48": "mapa48.png",
+          "128": "mapa128.png" },
   "content_scripts": [
     {
       "matches": ["http://*/*"],
